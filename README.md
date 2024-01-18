@@ -1,3 +1,3 @@
 # my-first-repo
 Repo for course
-Rishil,Maryville
+Rishil,Maryville,64468,NWMSU
